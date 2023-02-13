@@ -5,7 +5,6 @@
 // 918 -> 1
 
 Console.Write("----Задача 13----\n");
-// string number;
 Console.Write("Enter number: ");
 string input = Console.ReadLine()!;
 string number3;
@@ -25,7 +24,6 @@ else
 // 32679 -> 6
 
 Console.Write("----Задача 13----\n");
-// string number;
 int input1;
 Console.Write("Enter number: ");
 int.TryParse(Console.ReadLine()!, out input1);
