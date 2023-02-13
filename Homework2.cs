@@ -47,7 +47,6 @@ else
 // 1 -> нет
 
 Console.Write("----Задача 15----\n");
-// string number;
 int input10;
 Console.Write("Enter number: ");
 int.TryParse(Console.ReadLine()!, out input10);
