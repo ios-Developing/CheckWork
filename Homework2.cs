@@ -4,7 +4,7 @@
 // 782 -> 8
 // 918 -> 1
 
-Console.Write("----Задача 13----\n");
+Console.Write("----Задача 10----\n");
 Console.Write("Enter number: ");
 string input = Console.ReadLine()!;
 string number3;
