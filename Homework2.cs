@@ -54,3 +54,4 @@
 //     Console.Write($"WOW! Weekend!");
 // else
 //     Console.Write($"Bad day...");
+// test
