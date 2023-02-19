@@ -46,3 +46,5 @@ Console.Write("Enter number N: ");
 int.TryParse(Console.ReadLine()!, out N);
 for (int count = 1; count <= N; count++)
     Console.Write($" {count * count * count}; ");
+
+// End
