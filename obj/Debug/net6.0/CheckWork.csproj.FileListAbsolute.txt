@@ -1,0 +1,15 @@
+/Users/station/Desktop/CheckWork/obj/Debug/net6.0/CheckWork.csproj.AssemblyReference.cache
+/Users/station/Desktop/CheckWork/obj/Debug/net6.0/CheckWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/station/Desktop/CheckWork/obj/Debug/net6.0/CheckWork.AssemblyInfoInputs.cache
+/Users/station/Desktop/CheckWork/obj/Debug/net6.0/CheckWork.AssemblyInfo.cs
+/Users/station/Desktop/CheckWork/obj/Debug/net6.0/CheckWork.csproj.CoreCompileInputs.cache
+/Users/station/Desktop/CheckWork/bin/Debug/net6.0/CheckWork
+/Users/station/Desktop/CheckWork/bin/Debug/net6.0/CheckWork.deps.json
+/Users/station/Desktop/CheckWork/bin/Debug/net6.0/CheckWork.runtimeconfig.json
+/Users/station/Desktop/CheckWork/bin/Debug/net6.0/CheckWork.dll
+/Users/station/Desktop/CheckWork/bin/Debug/net6.0/CheckWork.pdb
+/Users/station/Desktop/CheckWork/obj/Debug/net6.0/CheckWork.dll
+/Users/station/Desktop/CheckWork/obj/Debug/net6.0/refint/CheckWork.dll
+/Users/station/Desktop/CheckWork/obj/Debug/net6.0/CheckWork.pdb
+/Users/station/Desktop/CheckWork/obj/Debug/net6.0/CheckWork.genruntimeconfig.cache
+/Users/station/Desktop/CheckWork/obj/Debug/net6.0/ref/CheckWork.dll
